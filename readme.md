@@ -1,16 +1,14 @@
-A simple nodejs http Server
-====================
+# YENJ - Yam Easy NodeJs
+A simple nodejs http server.
 
-Files
----------------------
+## Files
 
-server.js  -  the main js to run
-app.js - write your code in this file ( If use autoReload mode )
+    server.js  -  the main js to run
+    app.js - write your code in this file ( If use autoReload mode )
 
-AutoReload
----------------------
+## AutoReload
 
-app.js line 18
-> var config = {'autoReload': true};
+    app.js line 18
+    > var config = {'autoReload': true};
 
-##Contact to me: jimmy.dong@gmail.com
+Contact to me: jimmy.dong@gmail.com
